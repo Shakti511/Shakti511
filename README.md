@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arjun
 - 👀 I’m interested in 
 - 🌱 I’m currently learning C++ and web dev.
-- 💞️ I’m looking to collaborate on web deva projects.
+- 💞️ I’m looking to collaborate on web dev projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
