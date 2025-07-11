@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Shakti
-- 👀 I’m interested in 
 - 🌱 I’m currently learning C++ and web dev.
 - 💞️ I’m looking to collaborate on web dev projects.
 
