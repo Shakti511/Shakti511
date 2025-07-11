@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shakti
+- 👋 Hi, I’m Arjun
 - 🌱 I’m currently learning C++ and web dev.
 - 💞️ I’m looking to collaborate on web dev projects.
 
